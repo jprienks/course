@@ -6,4 +6,6 @@ This is a Student Repository for the Udemy's Complete dbt Bootcamp. You can:
 Codespace setup:
 <img width="930" height="435" alt="image" src="https://github.com/user-attachments/assets/d7e15ad5-6df6-4651-895a-ea382c4da79c" />
 
+_Note: You don't need to create/activate a virtualenv in the Codespace. Everything has been set up for you._
+
 Have fun! :)  
